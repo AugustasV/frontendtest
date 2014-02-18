@@ -2,7 +2,7 @@
 /* font-face rules */
 
 @font-face {
-	font-family: hmampersandregular;
+	font-family: hmampersandbold;
 	src:url('../fonts/hmampersand-bold.eot');
 	src:url('../fonts/hmampersand-bold.eot?#iefix') format('embedded-opentype'),
 		url('../fonts/hmampersand-bold.svg#hmampersand-regular') format('svg'),
