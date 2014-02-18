@@ -1,0 +1,46 @@
+﻿
+/* font-face rules */
+
+@font-face {
+	font-family: hmampersandregular;
+	src:url('../fonts/hmampersand-bold.eot');
+	src:url('../fonts/hmampersand-bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/hmampersand-bold.svg#hmampersand-regular') format('svg'),
+		url('../fonts/hmampersand-bold.woff') format('woff'),
+		url('../fonts/hmampersand-bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: hmampersandregular;
+	src:url('../fonts/hmampersand-regular.eot');
+	src:url('../fonts/hmampersand-regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/hmampersand-regular.svg#hmampersand-regular') format('svg'),
+		url('../fonts/hmampersand-regular.woff') format('woff'),
+		url('../fonts/hmampersand-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: hmampersandlight;
+	src:url('../fonts/hmampersand-light.eot');
+	src:url('../fonts/hmampersand-light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/hmampersand-light.svg#hmampersand-regular') format('svg'),
+		url('../fonts/hmampersand-light.woff') format('woff'),
+		url('../fonts/hmampersand-light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: hmampersandultralight;
+	src:url('../fonts/hmampersand-ultralight.eot');
+	src:url('../fonts/hmampersand-ultralight.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/hmampersand-ultralight.svg#hmampersand-regular') format('svg'),
+		url('../fonts/hmampersand-ultralight.woff') format('woff'),
+		url('../fonts/hmampersand-ultralight.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
